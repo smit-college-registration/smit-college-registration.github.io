@@ -1,0 +1,130 @@
+#overlay{
+
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    height: 50px;
+    background: #5ABD8C 0% 0% no-repeat padding-box;
+    border: 1px solid #707070;
+    opacity: 1;
+    
+   }
+   .button {
+    background-color: #5ABD8C; 
+    border-radius: 50px;
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  -webkit-transition-duration: 0.4s;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  }
+  
+  .button:hover {
+    background-color: #4CAF50; /* Green */
+    color: white;
+  }
+   ul {
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    height: 50px;
+    background: #5ABD8C 0% 0% no-repeat padding-box;
+    border: 1px solid #707070;
+    opacity: 1;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #5ABD8C 0% 0% no-repeat padding-box;
+  }
+  img{
+    border-radius: 30%;
+    margin-top: 4px;
+  }
+  li {
+    float: left;
+    font:  20px/13px Segoe UI;
+  }
+  
+  li a {
+    display: flex;
+    color: white;
+    text-align: center;
+    padding: 14px 20px 20px 15px;
+    text-decoration: none;
+  }
+  
+ 
+  li a:hover {
+    background-color: rgb(32, 25, 25);
+  }
+  .flex-container{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+   
+  }.flex-container > div {
+   
+    width: 30%;
+    margin: 10px;
+    height: 158px;
+    background: #5ABD8C 0% 0% no-repeat padding-box;
+    border-radius: 20px;
+    opacity: 1;
+  }
+  .font_form{
+    font: #5ABD8C
+  }
+  a{
+    color: white;
+    text-decoration:none;
+}
+  
+  .texxt{width: 198px;
+    height: 64px;
+    text-align: center;
+    font: Bold 58px/64px Segoe UI;
+    letter-spacing: 0;
+    color: #FFFFFF;
+    opacity: 1;}
+     
+  .texxtt{width: 198px;
+    height: 64px;
+    text-align: center;
+    font: Bold 48px/64px Segoe UI;
+    letter-spacing: 0;
+    color: #FFFFFF;
+    opacity: 1;}
+    .sub_details{
+        font:  18px/24px Segoe UI;
+        
+        margin-left: 10px;
+    }
+ .sub_detials{
+    
+    text-align: center;
+    font: Bold 28px/44px Segoe UI;
+    letter-spacing: 0;
+    color: #FFFFFF;
+    opacity: 1;
+    width: 401px;
+    height: 93px;
+    background: #5ABD8C 0% 0% no-repeat padding-box;
+    border-radius: 50px;
+    opacity: 1;
+ }
+ .llist{
+    top: 214px;
+left: 33px;
+width: 650px;
+height: 87px;
+background: #FFFFFF 0% 0% no-repeat padding-box;
+border: 1px solid #707070;
+opacity: 1;
+ }
