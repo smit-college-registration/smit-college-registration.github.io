@@ -1,0 +1,115 @@
+#overlay {
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 50px;
+  background: #5ABD8C 0% 0% no-repeat padding-box;
+  border: 1px solid #707070;
+  opacity: 1;
+}
+
+ul {
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 50px;
+  background: #5ABD8C 0% 0% no-repeat padding-box;
+  border: 1px solid #707070;
+  opacity: 1;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #5ABD8C 0% 0% no-repeat padding-box;
+}
+
+img {
+  border-radius: 30%;
+  margin-top: 4px;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  background-color: #111;
+}
+
+.flex-container {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+}
+
+.flex-container > div {
+  width: 100%;
+  margin: 10px;
+  height: 108px;
+  background: #5ABD8C 0% 0% no-repeat padding-box;
+  border-radius: 20px;
+  opacity: 1;
+}
+
+.flex-container > div .texxtt {
+  width: 40%;
+  margin: 5px;
+  height: 108px;
+  background: #5ABD8C 0% 0% no-repeat padding-box;
+  border-radius: 50px;
+  opacity: 1;
+}
+
+.texxt {
+  width: 198px;
+  height: 64px;
+  text-align: center;
+  font: Bold 48px/64px Segoe UI;
+  letter-spacing: 0;
+  color: #FFFFFF;
+  opacity: 1;
+}
+
+.texxtt {
+  width: 198px;
+  height: 64px;
+  text-align: center;
+  font: Bold 48px/64px Segoe UI;
+  letter-spacing: 0;
+  color: #FFFFFF;
+  opacity: 1;
+}
+
+.sub_details {
+  font: 18px/24px Segoe UI;
+  margin-left: 10px;
+}
+
+.sub_detials {
+  text-align: center;
+  font: Bold 28px/44px Segoe UI;
+  letter-spacing: 0;
+  color: #FFFFFF;
+  opacity: 1;
+  width: 401px;
+  height: 93px;
+  background: #5ABD8C 0% 0% no-repeat padding-box;
+  border-radius: 50px;
+  opacity: 1;
+}
+/*# sourceMappingURL=main.css.map */
